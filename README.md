@@ -151,10 +151,10 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "OTEMA",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
+  description: "My name is OTEMA....",
   email: "abusaid7388@gmail.com",
   phone: "+8801608797655",
   address: "Dhaka, Bangladesh",
@@ -273,3 +273,5 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
+#   d e v e l o p e r - p o r t f o l i o  
+ 
