@@ -5,20 +5,17 @@ export const skillsData = [
   'Typescript',
   'React',
   'Next JS',
+  'Node JS',
   'Tailwind',
   'MongoDB',
   'MySQL',
   'PostgreSQL',
   'Git',
   'AWS',
-  'Bootstrap',
   'Docker',
-  'Go',
-  'Figma',
-  'Firebase',
+  'Python',
   'MaterialUI',
-  'Nginx',
-  'Strapi'
+  'Figma'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -30,10 +27,10 @@ export const skillsData = [
 /* 
   HTML
   CSS
-  JS 
+  Javascript
+  Typescript
   React
   Next JS
-  Nuxt JS
   Node JS
   Vue
   Angular
@@ -56,7 +53,7 @@ export const skillsData = [
   After Effects
   Bootstrap
   Bulma
-  CapacitorJs
+  CapacitorJS
   Coffeescript
   MemSQL
   C
@@ -73,13 +70,10 @@ export const skillsData = [
   PHP
   Flutter
   Dart
-  Typescript
-  Swift
   Git
   Figma
   Canva
   Ubuntu
-  Bootstrap
   MongoDB
   Tailwind
   ViteJS
@@ -94,16 +88,23 @@ export const skillsData = [
   Deno
   Django
   Gimp
-  Graphql
+  GraphQL
   Lightroom
   MaterialUI
   Nginx
   Numpy
   OpenCV
-  Pytorch
+  PyTorch
   Selenium
   Strapi
   Tensorflow
-  Webex
+  Webix
   Wordpress
+  Pandas
+  Sklearn
+  .NET
+  .NET Core
+  Kubernetes
+  Linux
+  SQLAlchemy
 */
