@@ -8,8 +8,6 @@ module.exports = {
     domains: ['res.cloudinary.com', 'media.dev.to', 'media2.dev.to'],
     unoptimized: true
   },
-  output: 'export',
-  distDir: 'out',
-  // Ensure that Next.js works well with Netlify
+  // Remove static export settings
   trailingSlash: true
 }
