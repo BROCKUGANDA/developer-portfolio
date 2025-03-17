@@ -5,14 +5,10 @@
 [build.environment]
   # Enable Next.js cache
   NEXT_TELEMETRY_DISABLED = "1"
+  NODE_VERSION = "18"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
-  [plugins.inputs]
-    # Enable caching for faster builds
-    enable_cache = true
-    # Use the Next.js cache folder
-    cache_dir = ".next/cache"
 
 # Handle 404 errors
 [[redirects]]
