@@ -39,3 +39,8 @@ next-env.d.ts
 .netlify
 netlify/
 .netlify.toml
+
+# cache
+.npm
+.cache
+.turbo
