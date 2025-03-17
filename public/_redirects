@@ -1,9 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/home              /
-/blog              /blog
-/projects          /projects
-/contact           /contact
-/about             /about
-
-# Fallback for all other routes
-/*                 /index.html     200 
