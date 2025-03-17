@@ -10,7 +10,34 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-# Handle 404 errors
+# Handle client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Handle specific routes
+[[redirects]]
+  from = "/blog/*"
+  to = "/blog/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/projects/*"
+  to = "/projects/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/about"
+  to = "/about"
+  status = 200
+
+[[redirects]]
+  from = "/contact"
+  to = "/contact"
+  status = 200
+
+# Handle 404 errors last
 [[redirects]]
   from = "/*"
   to = "/404.html"

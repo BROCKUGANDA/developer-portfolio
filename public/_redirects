@@ -1,0 +1,11 @@
+# Redirects for client-side routing
+/*    /index.html   200
+
+# Specific routes
+/blog/*             /blog/:splat            200
+/projects/*         /projects/:splat        200
+/about              /about                  200
+/contact            /contact                200
+
+# Handle 404
+/*                  /404.html               404 
