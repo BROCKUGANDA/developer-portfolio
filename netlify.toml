@@ -3,12 +3,16 @@
   publish = ".next"
 
 [build.environment]
-  NETLIFY_NEXT_PLUGIN_SKIP = "false"
-  # Enable Next.js build cache
+  # Enable Next.js cache
   NEXT_TELEMETRY_DISABLED = "1"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+  [plugins.inputs]
+    # Enable caching for faster builds
+    enable_cache = true
+    # Use the Next.js cache folder
+    cache_dir = ".next/cache"
 
 # Handle 404 errors
 [[redirects]]
@@ -16,7 +20,7 @@
   to = "/404.html"
   status = 404
 
-# Configure build caching
+# Configure build processing
 [build.processing]
   skip_processing = false
 
