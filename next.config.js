@@ -8,6 +8,6 @@ module.exports = {
     domains: ['res.cloudinary.com', 'media.dev.to', 'media2.dev.to'],
     unoptimized: true
   },
-  // Remove static export settings
+  output: 'standalone',
   trailingSlash: true
 }
