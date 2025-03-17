@@ -7,7 +7,5 @@ module.exports = {
   images: {
     domains: ['res.cloudinary.com', 'media.dev.to', 'media2.dev.to'],
     unoptimized: true
-  },
-  output: 'standalone',
-  trailingSlash: true
+  }
 }
