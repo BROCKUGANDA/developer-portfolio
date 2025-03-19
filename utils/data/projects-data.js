@@ -17,6 +17,15 @@ export const projectsData = [
         code: "https://github.com/BROCKUGANDA/Real-estate",
         demo: "https://lizron.netlify.app/",
     }
+    {
+        id: 3,
+        name: "FoodHub",
+        description: "FoodHub is a landing page that connects customers with the best restaurant in town. Order your favorite meals and have them delivered to your doorstep in minutes.",
+        tools: ["html","css","js"],
+        role: "Frontend Developer",
+        demo: "https://ugandaconnect9.wordpress.com"
+
+    },
 ];
 
 // Do not remove any property.
