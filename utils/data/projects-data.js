@@ -26,6 +26,15 @@ export const projectsData = [
         demo: "https://ugandaconnect9.wordpress.com"
 
     },
+    {
+        id: 4,
+        name: "Eleganza",
+        description: "Discover the latest in luxury fashion at ELEGANZA. Craftsmanship, elegance, and timeless designs..",
+        tools: ["html","css","js"],
+        role: "Frontend Developer",
+        demo: "https://https://eleganzaug.netlify.app/"
+
+    },
 ];
 
 // Do not remove any property.
