@@ -16,7 +16,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: "https://github.com/BROCKUGANDA/Real-estate",
         demo: "https://lizron.netlify.app/",
-    }
+    },
     {
         id: 3,
         name: "FoodHub",
