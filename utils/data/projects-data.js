@@ -17,15 +17,16 @@ export const projectsData = [
         code: "https://github.com/BROCKUGANDA/Real-estate",
         demo: "https://lizron.netlify.app/",
     },
+    
     {
-        id: 3,
-        name: "FoodHub",
-        description: "FoodHub is a landing page that connects customers with the best restaurant in town. Order your favorite meals and have them delivered to your doorstep in minutes.",
-        tools: ["html","css","js"],
-        role: "Frontend Developer",
-        demo: "https://ugandaconnect9.wordpress.com"
-
+            id: 4,
+            name: "Lamborghini Showcase",
+            description: "An elegant, interactive landing page showcasing Lamborghini's luxury vehicles. Features dynamic galleries, smooth animations, and a modern UI that captures the prestige of this iconic brand.",
+            tools: ["React", "TailwindCSS", "Framer Motion", "GSAP"],
+            role: "Frontend Developer",
+            demo: "https://github.com/BROCKUGANDA/cars"
     },
+
     {
         id: 4,
         name: "Eleganza",
