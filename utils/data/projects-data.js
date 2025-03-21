@@ -24,7 +24,7 @@ export const projectsData = [
             description: "An elegant, interactive landing page showcasing Lamborghini's luxury vehicles. Features dynamic galleries, smooth animations, and a modern UI that captures the prestige of this iconic brand.",
             tools: ["React", "TailwindCSS", "Framer Motion", "GSAP"],
             role: "Frontend Developer",
-            demo: "https://github.com/BROCKUGANDA/cars"
+            demo: "https://lamboghiniug.netlify.app"
     },
 
     {
