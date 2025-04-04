@@ -2,7 +2,7 @@ export const personalData = {
   name: "Andrew Otema",
   profile: '/crane.jpg',
   designation: "Software Developer",
-  description: "My name is Andrew Otema. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "I am Andrew Otema, a dedicated Software Developer with a strong foundation in JavaScript and web technologies. With a passion for creating robust web solutions, I specialize in full-stack development and continuously enhance my technical expertise across various frameworks. I approach challenges with analytical thinking and innovative problem-solving methods. My commitment to ongoing learning allows me to adapt quickly to emerging technologies and industry best practices. I'm actively seeking opportunities that leverage my technical skills while providing room for professional growth.",
   email: 'otemaach@gmail.com',
   phone: '0765162414',
   address: 'Mutungo,Kampala',

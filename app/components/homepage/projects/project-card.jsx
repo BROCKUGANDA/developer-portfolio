@@ -62,26 +62,28 @@ function ProjectCard({ project }) {
             <span className="text-gray-400">,</span>
           </div>
           <div className="ml-4 lg:ml-8 mr-2 mt-4">
-  <span className="text-white">Links:</span>
-  <div className="flex space-x-4 mt-2">
-    <a 
-      href={project.demo} 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="text-[#16f2b3] hover:text-pink-500 transition-colors"
-    >
-      Demo
-    </a>
-    <a 
-      href={project.code} 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="text-[#16f2b3] hover:text-pink-500 transition-colors"
-    >
-      GitHub Code
-    </a>
-  </div>
-</div>
+            <span className="text-white">Links:</span>
+            <div className="flex space-x-4 mt-2">
+              <a 
+                href={project.demo} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-[#16f2b3] hover:text-pink-500 transition-colors"
+              >
+                Demo
+              </a>
+              {project.code && (
+                <a 
+                  href={project.code} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-[#16f2b3] hover:text-pink-500 transition-colors"
+                >
+                  GitHub Code
+                </a>
+              )}
+            </div>
+          </div>
           <div><span className="text-gray-400">{`};`}</span></div>
         </code>
       </div>
