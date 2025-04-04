@@ -4,6 +4,74 @@
 
 ---
 
+# Andrew Otema - Software Developer Portfolio
+
+This is my professional portfolio showcasing my skills, projects, and experience as a software developer. I've built this using Next.js and modern web technologies to create a responsive and interactive experience.
+
+---
+
+# About Me
+
+I am Andrew Otema, a dedicated Software Developer with a strong foundation in JavaScript and web technologies. With a passion for creating robust web solutions, I specialize in full-stack development and continuously enhance my technical expertise across various frameworks. I approach challenges with analytical thinking and innovative problem-solving methods. My commitment to ongoing learning allows me to adapt quickly to emerging technologies and industry best practices.
+
+---
+
+# Features :scroll:
+
+- Modern and responsive design
+- Project showcase with live demos
+- Skills and technologies section
+- Professional experience timeline
+- Education history
+- Contact information
+
+---
+
+# Technologies Used
+
+- Next.js
+- React
+- Tailwind CSS
+- JavaScript
+- Node.js
+- Email.js for contact form
+
+---
+
+# Projects Showcase
+
+The portfolio showcases several of my key projects:
+
+1. **Modern Landing Page** - A responsive landing page with clean design and smooth animations
+2. **Real Estate Website** - A full-stack real estate platform with property listings
+3. **Lamborghini Showcase** - An interactive landing page with dynamic galleries
+4. **Eleganza** - A luxury fashion e-commerce showcase
+
+Visit the live portfolio to see detailed information and demos of each project.
+
+---
+
+## View live portfolio [here](https://landingpageug.netlify.app/).
+
+---
+
+# Contact
+
+Feel free to reach out:
+
+- Email: otemaach@gmail.com
+- Phone: 0765162414
+- LinkedIn: [Andrew Otema](https://profile.indeed.com/p/andrewo-ysmeo4s)
+- Location: Mutungo, Kampala
+
+---
+
+# Credits
+
+This portfolio was built using a template by [Abu Said](https://github.com/said7388/developer-portfolio) which I've customized to showcase my personal projects and skills.
+
+---
+
 # [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
 
 ---
@@ -273,5 +341,6 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
-#   d e v e l o p e r - p o r t f o l i o  
+#   d e v e l o p e r - p o r t f o l i o 
+ 
  
