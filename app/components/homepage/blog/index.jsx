@@ -27,7 +27,7 @@ function Blog() {
         <div className="bg-[#1b203e] border border-[#353a52] rounded-lg p-8 max-w-2xl w-full text-center">
           <h3 className="text-2xl text-[#16f2b3] font-semibold mb-4">Coming Soon</h3>
           <p className="text-white mb-6">
-            I'm currently working on creating insightful blog posts about software development, best practices, and industry trends. 
+            I&apos;m currently working on creating insightful blog posts about software development, best practices, and industry trends. 
             Check back soon to read my latest articles!
           </p>
           <div className="inline-block bg-gradient-to-r from-pink-500 to-violet-600 p-[1px] rounded-full">
