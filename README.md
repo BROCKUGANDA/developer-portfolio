@@ -1,9 +1,3 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
----
-
 # Andrew Otema - Software Developer Portfolio
 
 This is my professional portfolio showcasing my skills, projects, and experience as a software developer. I've built this using Next.js and modern web technologies to create a responsive and interactive experience.
@@ -66,19 +60,9 @@ Feel free to reach out:
 
 ---
 
-# Credits
-
-This portfolio was built using a template by [Abu Said](https://github.com/said7388/developer-portfolio) which I've customized to showcase my personal projects and skills.
-
----
-
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
-
----
-
 # Developer Portfolio
 
-#### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+#### This is a professional portfolio website designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 ---
 
@@ -86,7 +70,7 @@ This portfolio was built using a template by [Abu Said](https://github.com/said7
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://landingpageug.netlify.app/).
 
 ---
 
@@ -137,12 +121,10 @@ git --version
 
 # Getting Started :dart:
 
-### Fork and Clone the repo
-
-To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
+### Clone the repo
 
 ```bash
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone <repository-url>
 
 cd developer-portfolio
 ```
@@ -213,7 +195,7 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` folder.
 
 Eg:
 
@@ -226,7 +208,6 @@ export const personalData = {
   email: "abusaid7388@gmail.com",
   phone: "+8801608797655",
   address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
   facebook: "https://www.facebook.com/abusaid.riyaz/",
   linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
   twitter: "https://twitter.com/said7388",
@@ -249,7 +230,7 @@ Deploying the app to platforms like Vercel or Netlify is quick and easy.
 
 1. **Sign up or log in** to [Vercel](https://vercel.com/).
 2. Once logged in, click on **"New Project"**.
-3. Select your **GitHub repo** (the one that contains your forked project) and click **Import**.
+3. Select your repository and click **Import**.
 4. Configure your environment variables in the Vercel dashboard by adding each key from your `.env` file.
    - E.g., `NEXT_PUBLIC_GTM`, `NEXT_PUBLIC_APP_URL`, `TELEGRAM_BOT_TOKEN`, etc.
 5. Click on **Deploy**. Vercel will automatically detect your Next.js app and build it.
@@ -257,13 +238,13 @@ Deploying the app to platforms like Vercel or Netlify is quick and easy.
 
 ### Updating After Deployment
 
-Whenever you push changes to your GitHub repo, Vercel will automatically redeploy the app, keeping your portfolio up-to-date.
+Whenever you push changes to your repository, Vercel will automatically redeploy the app, keeping your portfolio up-to-date.
 
 ## Deploying to Netlify:
 
 1. **Sign up or log in** to [Netlify](https://www.netlify.com/).
 2. In the **Netlify Dashboard**, click **"New site from Git"**.
-3. Connect your **GitHub** account and select your repo.
+3. Connect your repository account and select your repo.
 4. Configure your environment variables by going to **Site Settings > Build & Deploy > Environment** and adding keys from your `.env` file.
 5. Click **Deploy Site**. Netlify will build and deploy your portfolio.
 
@@ -341,6 +322,3 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
-#   d e v e l o p e r - p o r t f o l i o 
- 
- 

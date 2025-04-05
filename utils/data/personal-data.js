@@ -6,7 +6,6 @@ export const personalData = {
   email: 'otemaach@gmail.com',
   phone: '0765162414',
   address: 'Mutungo,Kampala',
-  github: 'https://github.com/BROCKUGANDA',
   devUsername: "Devguy",
   resume: "https://profile.indeed.com/p/andrewo-ysmeo4s"
 }

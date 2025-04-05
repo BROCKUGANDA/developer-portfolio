@@ -72,16 +72,6 @@ function ProjectCard({ project }) {
               >
                 Demo
               </a>
-              {project.code && (
-                <a 
-                  href={project.code} 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="text-[#16f2b3] hover:text-pink-500 transition-colors"
-                >
-                  GitHub Code
-                </a>
-              )}
             </div>
           </div>
           <div><span className="text-gray-400">{`};`}</span></div>
